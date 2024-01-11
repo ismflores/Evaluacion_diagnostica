@@ -1,0 +1,24 @@
+.contorno_calculadora {
+    border: 2px solid black;
+    width: auto;
+    height: auto;
+    text-align: center;
+}
+
+.botones_horizontales {
+    display: flex;
+    text-align: center;
+    /*con esto hacemos responsivo los botones */
+}
+
+.btn {
+    width: 80px;
+    height: 40px;
+    margin: 5px;
+}
+
+.cuadro_operaciones {
+    width: 170px;
+    height: 30px;
+    margin: 10px;
+}
